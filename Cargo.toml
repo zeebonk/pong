@@ -1,0 +1,7 @@
+[package]
+name = "pong"
+version = "0.1.0"
+authors = ["Gijs van der Voort <vandervoort.gijs@gmail.com>"]
+
+[dependencies]
+piston_window = "0.80.0"
